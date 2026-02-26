@@ -8,7 +8,7 @@ gem "rails", "~> 8.1.2"
 # ADD these gems:
 gem "sprockets-rails"
 # gem "sassc-rails"
-gem 'dartsass-rails'
+gem "dartsass-rails"
 gem "bootstrap", "~> 5.3"
 gem "autoprefixer-rails"
 # gem "font-awesome-sass", "~> 6.1"
