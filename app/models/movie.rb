@@ -1,6 +1,7 @@
 class Movie < ApplicationRecord
   # Associations
-  has_many :bookmarks, dependent: :restrict_with_error
+  # has_many :bookmarks, dependent: :restrict_with_error
+  has_many :bookmarks
 
   # Validations
   validates :title, presence: true, uniqueness: true
