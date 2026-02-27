@@ -8,7 +8,7 @@ gem "rails", "~> 8.1.2"
 # ADD these gems:
 gem "sprockets-rails"
 # gem "sassc-rails"
-gem 'sass-embedded', '~> 1.0'
+gem "sass-embedded", "~> 1.0"
 gem "dartsass-rails"
 # Add this to your Gemfile
 gem "dartsass-sprockets"
